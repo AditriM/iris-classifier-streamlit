@@ -2,3 +2,4 @@ pandas
 matplotlib
 mimesis
 seaborn
+scikit-learn
